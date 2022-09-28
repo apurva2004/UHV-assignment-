@@ -1,2 +1,2 @@
-# UHV-assignment-1
+# UHV-assignment
 assignment 1
